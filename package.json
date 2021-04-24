@@ -1,0 +1,25 @@
+{
+  "name": "the-social-api",
+  "version": "1.0.0",
+  "description": "api using mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prestongeyer713/the-social-api.git"
+  },
+  "author": "preston geyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prestongeyer713/the-social-api/issues"
+  },
+  "homepage": "https://github.com/Prestongeyer713/the-social-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.5"
+  }
+}
